@@ -6,6 +6,11 @@ https://www.boost.org/doc/libs/1_70_0/libs/dynamic_bitset/dynamic_bitset.html
 
 Example of usage:
 
+
+```C++
 #include "dynamic_bitset.h"
+
 using Bitset = base::dynamic_bitset<uint64_t>;
+
 Bitset bitset;
+```
